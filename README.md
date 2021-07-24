@@ -4,7 +4,7 @@
 <p align="center">Desafio sobre conceitos do Node</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/node-12.13.1-green"/>
+  <img src="https://img.shields.io/badge/node-14.15.4-green"/>
   <img src="https://img.shields.io/badge/score-10.00-important" />
   <img src="https://img.shields.io/badge/last%20commit-july-blue" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
